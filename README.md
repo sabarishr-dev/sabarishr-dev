@@ -4,14 +4,10 @@
 
 I’m a developer who enjoys building **immersive XR experiences, full-stack applications, and AI-powered systems**.
 
-I work across the stack — from **frontend experiences and backend APIs to cloud infrastructure, databases, analytics, and Unity-based XR applications**.
+I work across the stack - from **frontend experiences and backend APIs to cloud infrastructure, databases, analytics, and Unity-based XR applications**.
 
-- 🔭 Currently building **XR, AI & Full-Stack applications**
-- 🥽 Working with **Unity, OpenXR, VR/MR & interactive 3D experiences**
-- 🤖 Exploring **AI agents, RAG, MCP & intelligent applications**
-- ☁️ Building with **AWS, GCP, Docker & cloud-native technologies**
-- 💻 Passionate about **TypeScript, Next.js, Node.js & modern web development**
-- 📊 Interested in **Elasticsearch, analytics & AI-powered data systems**
+- 🥽 Working with **Unity, OpenXR, MetaXR, Multiplayer VR/MR & interactive 3D experiences**
+- 🤖 Exploring **AI agents, MCP & intelligent applications**
 - 🛠️ I enjoy turning rough ideas into working products
 
 ---
